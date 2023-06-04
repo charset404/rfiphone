@@ -3,6 +3,7 @@ Fix ``react-native-responsive-fontsize`` for iPhone 14.
 
 #### How to Install
 - Add the ``RFIphone`` folder to your ``components`` folder.
+- Install ``react-native-responsive-fontsize``
 
 #### How to Use. Example.
 
